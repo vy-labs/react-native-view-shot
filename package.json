@@ -13,11 +13,11 @@
     "rasterize"
   ],
   "author": "Gaëtan Renaudeau <renaudeau.gaetan@gmail.com>",
-  "homepage": "https://github.com/gre/react-native-view-shot",
+  "homepage": "https://github.com/vy-labs/react-native-view-shot",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gre/react-native-view-shot.git"
+    "url": "https://github.com/vy-labs/react-native-view-shot.git"
   },
   "peerDependencies": {
     "react": "*",
